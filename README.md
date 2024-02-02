@@ -1,4 +1,4 @@
-# Mostly Printed Probe
+# A Mostly Printed Probe
 A mostly printed kinetic probe for CNC machines
 
 ![MostlyPrintedProbeWiredLED](images/MostlyPrintedProbeWiredLED.png)
@@ -9,7 +9,7 @@ After my 21 year old ebay 'bargain' Renishaw gave up the ghost, I needed a probe
 
 With the exception of the 3mm diameter pins and the stylus, all of this probe is able to be FDM printed - even the spring is made from a length of filament!
 
-There are two different bodies - one is wired only and the second can also accomodate a 3mm LED (single or bocolour). The non-LED version requires no soldering.
+There are two different bodies - one is wired only and the second can also accommodate a 3mm LED (single or bi-colour). The non-LED version requires no soldering.
 
 This is the first build, it is fairly compact at 38mm diameter x 28mm tall. The 25mm/30° taper allows concentricity to be tuned in on a mandrel.
 ![first buid](images/first_build.jpeg)
