@@ -38,9 +38,11 @@ I'm using Cura at 0.2mm layer height. Sometimes the slicer will report errors in
 
 **A Note on Seams:** Unless you are able to truly hide your Z seam (ie no blobs), I recommend having a single seam that can be filed or scraped flat where required.
 
-Unless otherwise specified, I am using 4 walls and the default infill.
+Unless otherwise specified, I am using 4 walls and the default infill. Only two parts need supports.
 
-### Sleeve
+### Sleeve 
+
+Filamentt required: 7g, 2.25m
 
 ![print sleeve](../images/print-sleeve.png)
 
@@ -54,7 +56,9 @@ File the seam away on the lower 45° face.
 
 ### Main Body
 
-![print sleeve](../images/print-main-body.png)
+Filament required: 8g, 2.58m
+
+![main body](../images/print-main-body.png)
 
 
 No supports needed. There may be a little sagging at the top of the cable/LED holes but these are easily resolve with a 3mm drill.
@@ -66,7 +70,9 @@ Scrape the seam away on the inner 45° face. A sharp flat-bladed screwdriver wor
 
 ### Top
 
-![print sleeve](../images/print-top.png)
+Filament required: 5g, 1.7m
+
+![top](../images/print-top.png)
 
 
 An apparently happy part, but despite this, needs support. We are prining in this orientation because the bottom of the thread and the wide upper face need to be parallel. The underside edge at the top of the threads shouldn't actually touch the main body when screwed in.
@@ -75,7 +81,9 @@ An apparently happy part, but despite this, needs support. We are prining in thi
 
 ### Spider
 
-![print sleeve](../images/print-spider.png)
+![spider](../images/print-spider.png)
+
+Filament required: 2g, 0.69m
 
 
 No supports required, print upside down. I printed this solid (ie 10 walls) as the three pins will try to split the layers as you push them in.
@@ -83,14 +91,18 @@ No supports required, print upside down. I printed this solid (ie 10 walls) as t
 
 ### Pins Cover
 
+Filament required: 1g, 0.35m
+
+![pins cover](../images/print-pins-cover.png)
 
 Supports are required as there is a groove underneath to accomodate dodgy pin wiring - however you can leave this support in place if your wiring and pins sit wholly below the top surface of the sleeve.
 
 
 ### Spacer
 
-![print sleeve](../images/print-spacer.png)
+Filament required: 1g, 0.22m
 
+![spacer](../images/print-spacer.png)
 
 Every project needs a spacer! No supports required but print upside down.
 
@@ -102,7 +114,9 @@ This part also holds the (optional) LED in place.
 
 ### Spring Top
 
-![print sleeve](../images/print-spring-top.png)
+Filament required: 1g, 0.35m
+
+![spring top](../images/print-spring-top.png)
 
 
 No support required but print upside down.
@@ -118,22 +132,27 @@ These are utility prints to assist with the assemply.
 
 #### Spider Pin Guide
 
-![print sleeve](../images/print-spider-pin-guide.png)
+Filament required: 2g, 0.73m
+
+![spider pin guide](../images/print-spider-pin-guide.png)
 
 
 No support required, used to ensure the spider's pins are sticking out just the right amount.
 
 
 #### Spider Threading Guide
+Filament required: 3g, 1.02m
 
-![print sleeve](../images/print-spider-threading-guide.png)
+![spider threading guide](../images/print-spider-threading-guide.png)
 
 No support required. Sits on the spider's pins to provide a guide for the M3 tap.
 
 
 #### Spring Mandrel
 
-![print sleeve](../images/print-spring-mandrel.png)
+Filamaent required: 3g, 0.94m
+
+![spring mandrel](../images/print-spring-mandrel.png)
 
 No supports required. Used to wrap filament and 'set' using hot/cold water.
 
@@ -143,8 +162,9 @@ If you have any higher temperature filament, this might benefit, but I used PLA.
 ### Spindle Mandrels
 
 
-![print sleeve](../images/print-spindle-mandrels.png)
+![Spindle mandrels](../images/print-spindle-mandrels.png)
 
+Filament required: 12-17g 4.09-5.76m
 
 Not strictly part of the Mostly Printed Probe but provided for testing and modelling. Ideally these shoulb be turned oeut of metal as this is the bit that is regularly tightened into the spindle.
 
