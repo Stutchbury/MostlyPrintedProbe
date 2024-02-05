@@ -15,7 +15,7 @@ Yes, the threads work just fine in a 3D printed model!
 
 The M3 threads in the lid (for the spring tension) and spider (for the stylus) need to be carefully cut with a tap. A [threading guide](../stl/MostlyPrintedProbe-PartSpiderTappingTool.stl) is provided to help align the tap with the spider.
 
-The main M36 x 0.5mm thread that secures the top to the body and compresses all the bearing faces can provide some challenges. The thread itself has a generous tolerance built in, but there are many factors to acheiving a good thread but all can be resolved in the slicer.
+The main M36 x 1.5mm thread that secures the top to the body and compresses all the bearing faces can provide some challenges. The thread itself has a generous tolerance built in, but there are many factors to acheiving a good thread but all can be resolved in the slicer.
 
 #### Shrinkage
 The first lid & body I printed fitted perfectly (yes, I know, I'm was as surprised as you are) but when I re-printed the body in red, the diameter shrank. The same filament from the same manufacturer but in black, did not.
@@ -30,7 +30,7 @@ Some filaments, especially shiny PLA, have a nasty habit of sticking to each oth
 
 #### Cross threading
 
-An M36 x 0.5mm thread is *really* easy to cross thread - especially when the wires are not allowing the spacers to sit flat. Check the thread works wih just the lid and body (I'm sure you would anyway...) but be exceedingly careful as once cross threaded, plastic threads are very difficult to 'get back'. If it doesn't start easily & reliably, then final assembly gets a bit fractious.
+An M36 x 1.5mm thread is *really* easy to cross thread - especially when the wires are not allowing the spacers to sit flat. Check the thread works wih just the lid and body (I'm sure you would anyway...) but be exceedingly careful as once cross threaded, plastic threads are very difficult to 'get back'. If it doesn't start easily & reliably, then final assembly gets a bit fractious.
 
 ## Slicing & Printing
 
