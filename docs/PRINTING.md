@@ -1,5 +1,5 @@
 
-# Printing
+# Printing the Mostly Printed Probe
 
 This guide is for FDM printing the Mostly Printed Probe. All models are [here](../stl).
 
@@ -13,9 +13,9 @@ Most of the models have fairly relaxed tolerances with the accuracy of the probe
 
 Yes, the threads work just fine in a 3D printed model!
 
-The M3 threads in the lid (for the spring tension) and spider (for the stylus)need to be carefully cut with a tap. A [threading guide](../stl/MostlyPrintedProbe-PartSpiderTappingTool.stl) is provided to help align the tap with the spider.
+The M3 threads in the lid (for the spring tension) and spider (for the stylus) need to be carefully cut with a tap. A [threading guide](../stl/MostlyPrintedProbe-PartSpiderTappingTool.stl) is provided to help align the tap with the spider.
 
-The main M36 x 0.5mm thread that secures the top to the body and compresses all the bearing faces can provide some challenges. The thread itself has a generaous tolerance built in, but there are many factors to acheiving a good thread but all can be resolved in the slicer.
+The main M36 x 0.5mm thread that secures the top to the body and compresses all the bearing faces can provide some challenges. The thread itself has a generous tolerance built in, but there are many factors to acheiving a good thread but all can be resolved in the slicer.
 
 #### Shrinkage
 The first lid & body I printed fitted perfectly (yes, I know, I'm was as surprised as you are) but when I re-printed the body in red, the diameter shrank. The same filament from the same manufacturer but in black, did not.
