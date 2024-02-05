@@ -36,3 +36,8 @@ A quick list of things you'll need - I will create a proper print/build guide VS
 
 All the STLs are available [here](stl/).
 
+
+## Slicing and Printing
+
+A slicing and printing guide is available [here](docs/PRINTING.md).
+
