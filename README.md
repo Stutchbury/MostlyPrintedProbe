@@ -1,9 +1,9 @@
 # A Mostly Printed Probe
-A mostly printed kinetic probe for CNC machines. There is an old adage: "If you can't make it accurate, make it adjustable." 
+A mostly printed kinetic probe for CNC machines that can be fully 3D printed (or turned on a lathe) and requires no soldering.
 
-3D printing accuracy is often hard to achieve, especially on a variety of printers, but 
+>If you can't make it accurate, make it adjustable.
 
-This probe has been designed to work within ththe accuracy contraints of 3D printing and has proven to provide remarkable repeatability:
+3D printing accuracy is often hard to achieve, especially on a variety of printers, but this probe has been designed to work within the those accuracy contraints and has proven to provide remarkable repeatability:
 
 [![Mostly Printed Probe first test](https://img.youtube.com/vi/06nPOA94Pbk/hqdefault.jpg)](https://www.youtube.com/embed/06nPOA94Pbk)
 
@@ -14,11 +14,15 @@ After my 21 year old ebay 'bargain' Renishaw gave up the ghost, I needed a probe
 
 With the exception of the 3mm diameter pins and the stylus, all of this probe is able to be FDM printed - even the spring is made from a length of filament! Only one part (the top) requires supports.
 
+
 ![MostlyPrintedProbeExploded](images/exploded_view.png)
+
+The 25mm/30° taper in the top allows concentricity to be tuned in on a mandrel while the tapered interface between body and sleeve ensure concentricity is maintained. 
 
 There are two different bodies - one is wired only and the second can also accommodate a 3mm LED (single or bi-colour). The non-LED version requires no soldering.
 
-This is the first build, it is fairly compact at 38mm diameter x 28mm tall. The 25mm/30° taper allows concentricity to be tuned in on a mandrel.
+This is the first build, it is fairly compact at 38mm diameter x 28mm tall. 
+
 ![first buid](images/first_build.jpeg)
 
 As with all mechanical kinetic probes, this will work best with a [resistive switching interface](https://github.com/Stutchbury/CNCProbeInterface) but will also work fine as a plain old NC (normally closed) switch.
@@ -41,9 +45,13 @@ A quick list of things you'll need - I will create a proper print/build guide VS
 - **Thin stranded wire** - as fine as you can. I stripped out a ribbon cable but old USB charging cables are a good source.
 
 
-All the STLs are available [here](stl/). There are also a couple of example mandrels for fitting into your spindle that enable concentricity to be tuned in.
+All the STLs are available [here](stl/). There are also 12mm and 3/4" example mandrels for fitting into your spindle. These enable concentricity to be tuned in.
 
 
 ## Slicing and Printing
 
 A slicing and printing guide is available [here](docs/PRINTING.md).
+
+## Assembly
+
+The [assembly guide](docs/ASSEMBLY.md) is curently a work in progress.

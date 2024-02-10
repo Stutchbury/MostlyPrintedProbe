@@ -27,7 +27,7 @@ ___****** DO THIS AT YOUR OWN RISK! ******___
 
 For the spring, warm about a foot (30cm) of filament in hot water, poke it through the hole at the bottom, wrap two turns on the flat, then up the helix and another two or three turns on the narrow flat section. Depending on how old/inflexible your filamant is, you may need to keep running under hot water.
 
-Once fully wound (it will try to spring off), wrap tightly in painters tape (thanks Chhris NS), hold onto the ends and dunk the turned parts into near-boiling water for a second or so* then under a cold tap. This will raise the filament to (or near) it's plastic temperature and then set it.
+Once fully wound (it will try to spring off), wrap tightly in painters tape (thanks Chris NS), hold onto the ends and dunk the turned parts into near-boiling water for a second or so* then under a cold tap. This will raise the filament to (or near) it's plastic temperature and then set it.
 
 \* you can tell when it is 'done' by gently pulling one of the loose ends - as you feel it start to stretch, it is ready for a cold dunk.
 
