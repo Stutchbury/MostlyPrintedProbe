@@ -128,7 +128,16 @@ This sits on top (well, screws into) the top of filament-made spring to 'level o
 
 ### Tools
 
-These are utility prints to assist with the assemply.
+These are utility prints to assist with the assembly.
+
+### Top Spanner
+
+![Top Spanner](../images/print-top-spanner.png)
+
+Filament required: 3g, 1.08m
+
+No supprot required. Add two M3 x 8mm scres and nuts to help unscrew the top from the base (when, not if, it sticks).
+
 
 #### Spider Pin Guide
 
@@ -169,3 +178,6 @@ Filament required: 12-17g 4.09-5.76m
 Not strictly part of the Mostly Printed Probe but provided for testing and modelling. Ideally these shoulb be turned oeut of metal as this is the bit that is regularly tightened into the spindle.
 
 The four M3 threads allow you to tune in concentricity of the stylus.
+
+
+
